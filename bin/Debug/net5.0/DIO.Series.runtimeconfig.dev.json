@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\geani\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\geani\\.nuget\\packages"
+    ]
+  }
+}

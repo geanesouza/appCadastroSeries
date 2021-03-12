@@ -1,0 +1,5 @@
+C:\Users\geani\DigitalInnovationOne\csharp-examples\DIO.Series\bin\Debug\net5.0\publish\DIO.Series.exe
+C:\Users\geani\DigitalInnovationOne\csharp-examples\DIO.Series\bin\Debug\net5.0\publish\DIO.Series.dll
+C:\Users\geani\DigitalInnovationOne\csharp-examples\DIO.Series\bin\Debug\net5.0\publish\DIO.Series.deps.json
+C:\Users\geani\DigitalInnovationOne\csharp-examples\DIO.Series\bin\Debug\net5.0\publish\DIO.Series.runtimeconfig.json
+C:\Users\geani\DigitalInnovationOne\csharp-examples\DIO.Series\bin\Debug\net5.0\publish\DIO.Series.pdb
